@@ -28,7 +28,7 @@ There were some significant challenges on this project. The primary cause was th
 
 This led into the second largest issue. We initally wanted C++ to call a python update function on every game object, similar to Unity. However the documentation was unclear on how to call specific python functions from withing C++ and what the specific scope/lifetime of those variables would be. After this project I feel I have a better handle on pybind and could implement this feature if given even one more week or even a few days.
 
-There are also some inconsistent seg faults. 9/10 times a script will run fine and then seg fault for no discernable reason. Some more time to hunt down this memory issue would have been appreciated.
+There are also some inconsistent seg faults. 9/10 times a script will run fine and then seg fault for no discernable reason. Some more time to hunt down this memory issue would have been appreciated. Some things were just rushed and overlooked as we hit the end, like the font file being hard coded into C++, just a silly oversight.
 
 ### Team Game Makers
 - Marcos Lopez
