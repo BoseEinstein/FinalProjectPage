@@ -1,0 +1,14 @@
+digraph "D:/Documents/LocalProjects/C/FinalProject/FinalProject/Docs/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_faab23e871edbd168169ca65514cd9f3 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Docs" fontname="Helvetica", fontsize="10", URL="dir_faab23e871edbd168169ca65514cd9f3.html"]
+  subgraph clusterdir_7bbb17c45052c1fedbc13c91100d3f17 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_7bbb17c45052c1fedbc13c91100d3f17.html"];
+    dir_7bbb17c45052c1fedbc13c91100d3f17 [shape=plaintext label="include"];
+    dir_64d942f94f1e3efe2d081e556994a782 [shape=box label="SDL2" color="black" fillcolor="white" style="filled" URL="dir_64d942f94f1e3efe2d081e556994a782.html"];
+  }
+  }
+  dir_7bbb17c45052c1fedbc13c91100d3f17->dir_64d942f94f1e3efe2d081e556994a782 [headlabel="1", labeldistance=1.5 headhref="dir_000006_000007.html"];
+}

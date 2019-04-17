@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['vector3d',['Vector3D',['../struct_vector3_d.html',1,'']]]
+  ['textcomponent',['TextComponent',['../class_text_component.html',1,'']]],
+  ['transform',['Transform',['../class_transform.html',1,'']]]
 ];

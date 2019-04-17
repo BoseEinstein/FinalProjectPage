@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sdlprogram',['SDLProgram',['../class_s_d_l_program.html',1,'']]]
+  ['resourcemanager',['ResourceManager',['../class_resource_manager.html',1,'']]]
 ];

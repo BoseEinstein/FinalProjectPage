@@ -1,0 +1,13 @@
+digraph "D:/Documents/LocalProjects" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_f396504afdc959660871b003fa10164d {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Documents" fontname="Helvetica", fontsize="10", URL="dir_f396504afdc959660871b003fa10164d.html"]
+  subgraph clusterdir_797f3e2edc8750557758a2619f1dc004 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_797f3e2edc8750557758a2619f1dc004.html"];
+    dir_797f3e2edc8750557758a2619f1dc004 [shape=plaintext label="LocalProjects"];
+    dir_c6a00b75020fabe2e2f55e91a9ddff71 [shape=box label="C" color="red" fillcolor="white" style="filled" URL="dir_c6a00b75020fabe2e2f55e91a9ddff71.html"];
+  }
+  }
+}
