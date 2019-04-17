@@ -18,9 +18,9 @@
 
 ## Screenshots
 
-![img1](/Docs/scrrenshot1.png)
-![img2](/Docs/screenshot2.png)
-![img3](/Docs/screenshot3.png)
+![img1](/images/screenshot1.png)
+![img2](/images/screenshot2.png)
+![img3](/images/screenshot3.png)
 
 
 ## Game Engine Post Mortem
